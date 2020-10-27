@@ -10,3 +10,4 @@ To explore this, I manipulated the data with Python and was able to calculated t
 
 At first I believed this was because users would bike to work and taxi home. However, after looking at the busiest times that does not appear to be the case.
 
+Because the weekend sees the greatest traffic, and most rides originate in the early afternoon, I hypothesize the flow of bikes to Downtown is a result of users wanting to meet up with friends and/or grab a drink. Because Downtown/Manhattan has the densest concentration of restaurants and bars, I believe users bike there (and then after heavy meal or a couple drinks!) decide it easier to taxi back to the Upper neighborhoods. 
